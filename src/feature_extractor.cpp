@@ -2,6 +2,7 @@
 #include <config.h>
 #endif
 
+#include <limits>
 #include "feature_extractor.h"
 #include <rcsc/common/logger.h>
 #include <rcsc/common/server_param.h>
